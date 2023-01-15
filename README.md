@@ -14,9 +14,9 @@
 >So, we created V/Recall. Changes in short term memory – forgetting words, names, or familiar tasks – is the first and most common sign of Alzheimer's. Our research-by-design VR solution has the potential to improve brain cognition through critical thinking and spatial exploration in a fun and immersive way. 
 </div>
 
-<h2 align="center">FoodARt as a Mobile Application</h2>
+<h2 align="center"></h2>
 <div align="center">
-  <img src =" /imgandgifs/1.gif" width = 500px>
+  <img src ="/imgandgifs/1.gif" width = 500px>
   <img src ="/imgandgifs/2.gif" width = 500px>
   <img src ="/imgandgifs/3.gif" width = 500px>
   <img src ="/imgandgifs/4.gif" width = 500px>
