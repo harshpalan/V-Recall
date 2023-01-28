@@ -22,6 +22,14 @@
   <img src ="/imgandgifs/4.gif" width = 500px>
 </div>
 
+<br>
+<br>
+
+We also created an off VR Test for users to take to check how much memory can retained after playing the game. This test consisted of distraction tests which made sure that users are given some time before the real test related to the memory game. The prototype of this test was made on [Figma](https://www.figma.com/proto/KdSvRZ25V7YsHTsyY9SgQ6/MIT-Hackathon-Interface?node-id=14%3A6&scaling=contain&page-id=0%3A1&starting-point-node-id=14%3A6).
+
+<h3 align="center">What's next for V/RECALL</h3>
+Since our design requires a large amount of usability testing to determine its effectiveness, the next stage would focus on conducting tests with user groups with different stages of dementia and/or Alzheimer's. In addition, we believe that health services should be accessible to all. While inclusivity was a main prioritization in the limited time we had, we aim to continue testing the accessibility of this solution to ensure that it is inclusive of all user groups.
+
 
 
 ### Contributors
